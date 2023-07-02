@@ -10,3 +10,6 @@ https://www.observatorio-empresas.vodafone.es/articulos/profesionales-y-pequenas
 Source Trace: sourcetrace.com
 
 3D Terrain: https://betterprogramming.pub/using-3d-terrain-in-your-web-apps-1c0c56ae07e1
+
+Computer Vision for Agro Problems:
+https://medium.com/@tenyks_blogger/top-4-computer-vision-problems-solutions-in-agriculture-data-part-1-4f6b6c5582cb
