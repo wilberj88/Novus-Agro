@@ -1,5 +1,8 @@
 # Novus-Agro
 
+Precision Agriculture:
+https://towardsdatascience.com/time-series-for-climate-change-using-deep-learning-for-precision-agriculture-806878cab9c
+
 Plant`s Quality:
 https://colab.research.google.com/drive/1sVHGRf7kWrIVe_MO5CSJibtYb4AVeu6U
 
