@@ -15,6 +15,7 @@ Source Trace: sourcetrace.com
 3D Terrain: https://betterprogramming.pub/using-3d-terrain-in-your-web-apps-1c0c56ae07e1
 
 Computer Vision for Agro Problems:
+https://openweathermap.medium.com/building-visual-agro-service-based-on-weather-and-satellite-data-part-2-satellite-imagery-1ceef6cde668
 https://medium.com/@tenyks_blogger/top-4-computer-vision-problems-solutions-in-agriculture-data-part-1-4f6b6c5582cb
 https://medium.com/@tenyks_blogger/top-4-computer-vision-problems-solutions-in-agriculture-data-part-2-4eff7010a61e
 Monitoring Regenerative Agriculture: https://graindatasolutions.medium.com/monitoring-regenerative-agriculture-by-satellite-imagery-and-ai-d991e06d0439
