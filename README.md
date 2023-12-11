@@ -3,6 +3,9 @@
 Precision Agriculture:
 https://towardsdatascience.com/time-series-for-climate-change-using-deep-learning-for-precision-agriculture-806878cab9c
 
+Animal Communication:
+https://medium.com/aiguys/decoding-animal-communication-using-ai-dda7b01425f1
+
 Plant`s Quality:
 https://colab.research.google.com/drive/1sVHGRf7kWrIVe_MO5CSJibtYb4AVeu6U
 
