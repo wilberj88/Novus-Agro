@@ -6,6 +6,9 @@ https://towardsdatascience.com/time-series-for-climate-change-using-deep-learnin
 Animal Communication:
 https://medium.com/aiguys/decoding-animal-communication-using-ai-dda7b01425f1
 
+Crop & Price Predictions:
+https://towardsdatascience.com/a-data-science-course-project-about-crop-yield-and-price-prediction-im-still-not-ashamed-of-75712dc8696f
+
 Plant`s Quality:
 https://colab.research.google.com/drive/1sVHGRf7kWrIVe_MO5CSJibtYb4AVeu6U
 
