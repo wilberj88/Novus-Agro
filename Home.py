@@ -22,7 +22,7 @@ st.set_page_config(
 
 colx, coly, colz = st.columns(3)
 with coly:
-    st.title("Agro Twin")
+    st.title("🌽 Agro Twin 🤖")
 
 st.header("Configuración")
 col1, col2, col3 = st.columns(3)
