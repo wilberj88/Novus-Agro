@@ -1,4 +1,12 @@
 # Novus-Agro
+UX:
+1) El empresario agrícola elige el cultivo, el tamaño y la ubicación. Input de 3 variables. Botón de Calcular Diagnóstico.
+
+2) El diagnóstico arroja: i) Cronograma, ii) Presupuestos, iii) Rentabilidades, iv) Riesgos. Output de 4 funciones.
+   
+3) Servicio mensual de Gemelo Digital 3D con Kit Cuaderno de Campo Diario con reporte generado por 6 cámaras 360 y espectrales (entradas, salidas, norte, sur, este, oeste), 6 paquetes de sensores -ultrasonido, sondas de humedad- (ingreso de semillas y esquejes, salida de productos, norte, sur, este, oeste), 5 fotografías satelitales cada 6 horas (centro, norte, sur, este, oeste) para: Control de Recursos Hídricos, Cumplimimiento Ley Cadena Agroalimentaria, Alarma de Costos, Alarma de Plagas, Alarmas Climáticas e Hídricas, y actualizaciones de Cronograma, Presupuestos, Rentabilidades y Riesgos.
+
+
 
 Precision Agriculture:
 https://towardsdatascience.com/time-series-for-climate-change-using-deep-learning-for-precision-agriculture-806878cab9c
