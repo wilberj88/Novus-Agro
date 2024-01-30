@@ -1,1 +1,7 @@
 streamlit
+pandas
+numpy
+plotly
+pydeck
+streamlit_echarts
+altair
