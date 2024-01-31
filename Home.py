@@ -346,11 +346,12 @@ if a:
     
     
     
-   
-    st.header("Gemelo Digital")
-    st.subheader("Cronograma Mensual de Tareas del Cuaderno de Campo 📓")
+    st.title("Cuaderno de Campo 📓")   
+    st.subheader("Cronograma Mensual de Tareas del Cuaderno de Campo ")
     chart_data = pd.DataFrame(
     np.random.randn(50, 5),
     columns=["Clima", "Riego", "Cámaras", "Sensores", "Jardinería"])
     st.bar_chart(chart_data)
-
+    
+    st.title("Kit Gemelo Digital")
+    
