@@ -339,8 +339,8 @@ if a:
         ),
         ],
         ))
-    st.header("Mitigación requerida")
-    chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["Movimiento de Tierras", "Motobombas", "Escombros"])
+    st.header("Flujo de Caja Requerido 💰")
+    chart_data = pd.DataFrame(np.random.randn(20, 3), columns=["Plagas", "Enfermedades", "Agua"])
     st.area_chart(chart_data)
     st.write("Financiación necesaria")
         # Add histogram data
