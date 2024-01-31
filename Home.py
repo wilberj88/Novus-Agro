@@ -9,7 +9,7 @@ import altair as alt
 
 
 st.set_page_config(
-    layout = 'centered',
+    layout = 'wide',
     page_title = 'Agro Twin 🌽',
     page_icon="🤖",
     initial_sidebar_state="expanded",
