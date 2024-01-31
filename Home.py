@@ -25,7 +25,7 @@ with coly:
     st.title("🌽 Agro Twin 👨‍🌾")
 
 st.header("Configuración")
-col1, col2 = st.columns()
+col1, col2 = st.columns(2)
 with col1:
     cultivo = st.radio(
     "¿Cuál es tu cultivo?",
