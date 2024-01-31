@@ -25,7 +25,7 @@ with coly:
     st.title("🌽 Agro Twin 👨‍🌾")
 
 st.header("Configuración")
-col1, col2, col3 = st.columns(3)
+col1, col2 = st.columns()
 with col1:
     cultivo = st.radio(
     "¿Cuál es tu cultivo?",
@@ -33,9 +33,8 @@ with col1:
     captions = ["Kerman", "CNCH-13", "Meli Genetic"])
 
 with col2:
-    area = st.slider('Cuántas hectáreas cultivadas?', 0, 100, 5)
-    
-with col3:
+    area = st.slider('Cuántas hectáreas cultivadas?', 0, 100, 5)    
+
     if "visibility" not in st.session_state:
         st.session_state.visibility = "visible"
         st.session_state.disabled = False
