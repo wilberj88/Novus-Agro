@@ -352,6 +352,9 @@ if a:
     np.random.randn(50, 5),
     columns=["Clima", "Riego", "Cámaras", "Sensores", "Jardinería"])
     st.bar_chart(chart_data)
+    colx, coly, colz = st.columns(3)
+    with coly:
+        b=  st.button("Suscríbete Mensualmente: 1€ por hectárea", type="primary")
     
     st.title("Kit Gemelo Digital 📦")
     col1, col2, col3, col4 = st.columns(4)
@@ -359,3 +362,6 @@ if a:
     col2.write("5 Sensores: entrada, monitoreo, puntos NSEO")
     col3.write("1 Monitor Riesgos Clima en tiempo real")
     col4.write("4 Fotos Satelitales Diarias")
+    colx, coly, colz = st.columns(3)
+    with coly:
+        c=  st.button("Compra por 1.000€ año", type="primary")
