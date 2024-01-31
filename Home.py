@@ -10,7 +10,7 @@ import altair as alt
 
 st.set_page_config(
     layout = 'wide',
-    page_title = 'Agro Twin',
+    page_title = 'Agro Twin 🌽',
     page_icon="🤖",
     initial_sidebar_state="expanded",
     menu_items={
