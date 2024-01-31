@@ -316,7 +316,7 @@ if a:
     initial_view_state=pdk.ViewState(
         latitude=-4.0226300,
         longitude=39.8581000,
-        zoom=5,
+        zoom=2,
         pitch=50,
     ),
     layers=[
