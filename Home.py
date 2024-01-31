@@ -347,11 +347,15 @@ if a:
     
     
     st.title("Cuaderno de Campo 📓")   
-    st.subheader("Cronograma Mensual de Tareas del Cuaderno de Campo ")
+    st.subheader("Cronograma Mensual de Tareas 🗓️")
     chart_data = pd.DataFrame(
     np.random.randn(50, 5),
     columns=["Clima", "Riego", "Cámaras", "Sensores", "Jardinería"])
     st.bar_chart(chart_data)
     
-    st.title("Kit Gemelo Digital")
-    
+    st.title("Kit Gemelo Digital 📦")
+    col1, col2, col3, col4 = st.columns(4)
+    col1.write("6 Cámaras: entrada, salida, puntos NSEO")
+    col2.write("5 Sensores: entrada, monitoreo, puntos NSEO")
+    col3.write("1 Monitor Riesgos Clima en tiempo real")
+    col4.write("4 Fotos Satelitales Diarias")
