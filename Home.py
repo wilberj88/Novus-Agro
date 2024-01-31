@@ -41,7 +41,7 @@ with col3:
         st.session_state.disabled = False
     ubicacion = st.selectbox(
         "En cuál comunidad?",
-        ("Toledo", "Ciudad Real", "Albacete"),
+        ("Toledo", "Ciudad Real", "Albacete", "Santander"),
         label_visibility=st.session_state.visibility,
         disabled=st.session_state.disabled,
     )
@@ -53,11 +53,12 @@ with coly:
 if a:
     st.header("Diagnóstico")
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Derrumbes", "70%", "40%")
-    col2.metric("Sequías", "30%", "-82%")
-    col3.metric("Incedios", "16%", "43%")
-    col4.metric("Inundaciones", "87%", "78%")
-    st.write("Calendario de Calor👋")
+    col1.metric("Costo", "15M €", "40%")
+    col2.metric("Rentabilidad", "30%", "-82%")
+    col3.metric("Financiación", "16%", "43%")
+    col4.metric("Inflación", "7%", "78%")
+    
+    st.subheader("Cronograma de cultivo 📅")
     
     def render_heatmap_cartesian():
         hours = [
