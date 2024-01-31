@@ -340,7 +340,7 @@ if a:
         ],
         ))
     st.header("Flujo de Caja Requerido 💰")
-    chart_data = pd.DataFrame(np.random.randn(20, 4), columns=["Gestión de Plagas", "Prevención y Cura de Enfermedades", "Riego de Agua", "Kit Agro Twin"])
+    chart_data = pd.DataFrame(np.random.randn(20, 6), columns=["Gestión de Plagas", "Fertilizantes", "Enfermedades", "Riego de Agua", "Kit Agro Twin", "Trabajadores"])
     st.area_chart(chart_data)
     st.write("Financiación necesaria")
         # Add histogram data
